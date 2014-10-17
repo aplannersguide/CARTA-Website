@@ -44,7 +44,7 @@ Thank you for your interest in the CARTA. The CARTA is an equal opportunity empl
 
 The CARTA accepts employment applications ongoing, which are kept on file for one year. All open positions will be posted. Applications are also available at the CARTA Administrative Office located at 1617 Wilcox Boulevard.
 
-Apply online here OR Get PDF employment application to e-mail, mail or fax.
+[Apply online here](http://gocarta.org/hrforms/jobApp.html) OR Get [PDF employment application](http://gocarta.org/hrforms/employmentapplication.pdf) to e-mail, mail or fax.
 
 Back to the top
 
@@ -103,7 +103,7 @@ __________
 
 A minimum of a one month showing is requested. Payment for the first month must be made in full by the posting date. For showings of more than one month, payment for the first month is due by the posting date and Advertiser will be invoiced monthly in advance for remaining months. All copy and illustrations are subject to the approval of CARTA. Contracts are also subject to the terms and conditions of advertising service listed on the reverse side of CARTA's "Contract for: Transit Advertising" and CARTA Transit Advertising Policy. All rates are NET rates. Rates include the initial installation of signs. Should Advertiser wish to have signs changed or replaced during the contract period, an additional charge of $5.00 per sign will be billed to the Advertiser.
 
-Get advertising details and costs
+[Get advertising details and costs](http://gocarta.org/alt-flash/advertising.php)
 
 Back to the top
 
@@ -175,7 +175,7 @@ Telephone 423-629-1411
 Fax 423-698-2749
 E-mail: AnniePowell@gocarta.org
 
-Download a DBE application here.
+[Download a DBE application here.](http://gocarta.org/pdf/tnucp_application.pdf)
 
 On an annual basis, CARTA establishes goals for the participation of disadvantage business in its procurement process.
 
@@ -207,9 +207,9 @@ Please contact Annie Powell, Director of Grants, Technology and Research, by tel
 
 *Current Procurements*
 
-Fuel Invitation for Bid: Please click here for a copy of the Invitation for Bid. Click here for Addendum 1. Click here for Addendum 2. Click here for Addendum 3. Click here for Addendum 4.
+Fuel Invitation for Bid: Please click [here](http://gocarta.org/pdf/fuel.pdf) for a copy of the Invitation for Bid. Click [here](http://gocarta.org/pdf/addendum1.pdf) for Addendum 1. Click [here](http://gocarta.org/pdf/addendum2.pdf) for Addendum 2. Click [here](http://gocarta.org/pdf/addendum3.pdf) for Addendum 3. Click [here](http://gocarta.org/pdf/addendum4.pdf) for Addendum 4.
 
-Incline Concessions Request for Proposal: Please click here for a copy of the Request for Proposals.
+Incline Concessions Request for Proposal: Please click [here](http://gocarta.org/pdf/inclineconcessions2014.pdf) for a copy of the Request for Proposals.
 
 Back to the top
 
