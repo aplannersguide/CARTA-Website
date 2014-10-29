@@ -55,7 +55,7 @@ The CARTA Special Fare I.D. Card is a special fare program for senior citizens a
 
 CARTA Special Fare ID cards are available to seniors age 65 and over who present a Medicare or identification card issued by a State or Federal Agency that shows the date of birth and to persons with disabilities who present a Medicare card, an ADA eligibility card, or a completed Special Fare ID application.
 
-Download CARTA's SPECIAL FARE I.D. application here.
+[Download CARTA's SPECIAL FARE I.D. application here](http://gocarta.org/fares/special_fares_program.pdf).
 
 ---
 

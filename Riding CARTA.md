@@ -54,13 +54,13 @@ ELIGIBILITY UNDER AMERICANS WITH DISABILITIES ACT (ADA)
 
 Applicants for CARTA's Care-A-Van paratransit service meeting the Americans with Disabilities Act (ADA) qualifications must qualify in one of three categories for service eligibility.
 
-Category 1
+*Category 1*  
 Because applicant is unable to board, ride or disembark from an accessible fixed route bus. Cannot use fixed route bus service because of impairment(s).
 
-Category 2
+*Category 2*  
 Because applicant is able to use an accessible fixed route bus, but accessible vehicles are not available.
 
-Category 3
+*Category 3*  
 Because applicant is unable to travel to a bus stop because of impairment(s).
 
 If you are approved as an ADA Eligible rider, you will be sent a certification card as documentation. Individuals considered to be ADA Eligible can use this identification in other cities to receive paratransit service. This does not entitle you to free transportation. Fares are charged for each trip. For additional information or for further clarification, please call CARTA Care-A-Van at 423-698-9038 (TDD 423­698-8418).
@@ -148,7 +148,7 @@ The Commission meets monthly to advise, innovate and effect changes for the on g
 
 All are welcome to attend Commission meetings. Contact the Care-A-Van office for more information.
 
-Get PDF Care-A-Van application.
+[Get PDF Care-A-Van application.](http://gocarta.org/pdf/careavan_application.pdf)
 
 Back to the top
 
@@ -203,73 +203,73 @@ RIDER INFORMATION
 =================
 
 BIKES ON BUSES
-==============
+--------------
 
 The CARTA has bike racks on all of its buses, excluding the Downtown Shuttle. The bike racks were made possible through grants from the City of Chattanooga and the Lyndhurst Foundation. The stainless steel racks are attached to the front of the buses and can accommodate up to two bikes at a time. The devices are easy for cyclists to use and feature locking levers to secure the bikes in the racks while the buses are in motion.
 
-Bike riders must load their own bikes in the racks and remove them from the racks. Please get bike instructions here. With 16 CARTA bus routes serving Chattanooga, getting around by bike and bus is now even more convenient.
+Bike riders must load their own bikes in the racks and remove them from the racks. Please get [bike instructions here.](http://www.sportworks.com/) With 16 CARTA bus routes serving Chattanooga, getting around by bike and bus is now even more convenient.
 
-For more information about bike paths and the numerous opportunities for bicyclists in the Chattanooga area, log on to Bike Chattanooga or call Outdoor Chattanooga at (423) 643-6887.
+For more information about bike paths and the numerous opportunities for bicyclists in the Chattanooga area, log on to [Bike Chattanooga](http://www.bikechattanooga.org/) or call Outdoor Chattanooga at (423) 643-6887.
 
 Back to the top
 
 FAQ
-===
+---
 
-How do I know when and where to catch CARTA?
+*How do I know when and where to catch CARTA?*
 
 First, check out the Routes and Schedules section of this website or call the CARTA Information Line at (423) 629-1473, TDD users (423) 624-4534 between 6:00 a.m. and 8:00 p.m. Monday through Saturday. A Customer Service Representative is available to answer your questions about where and when to catch the bus. If you prefer, CARTA will mail you the route and schedule information you need. Bus schedules may also be obtained at participating banks, credit unions, libraries, EPB downtown, malls and many service agencies as well as on the buses. Bus stops are marked with red, white and blue bus stop signs. CARTA drivers try very hard to be on time. Get to your bus stop a few minutes early to make sure you catch your bus. CARTA sets its clocks to SunTrust Bank time. Call (423) 265-1411 for a time check.
 
-How do I know I am getting on the correct bus?
+*How do I know I am getting on the correct bus?*
 
 The route number and name appear on signs above the front window and on the curb side of each bus. These signs identify the route on which the bus is operating. If you're not sure, ask the bus driver.
 
-How much does it cost to ride CARTA?
+*How much does it cost to ride CARTA?*
 
 CARTA's one way cash fare is $1.50. Seniors, students and persons with disabilities can ride CARTA for 75¢ one way, with proper iden­tification. The CARTA's 24 Hour Unlimited Ride Pass costs $4.00 ($6.00 when purchasing it for the first time); $2.00 for eligible persons. The CARTA's 31 Day Unlimited Ride Pass costs $50.00. The fare boxes accept dollar bills no larger than $20.00 and any denomination of coins. Children ages 5 & under ride free with a paying passenger. The CARTA Care-a-van costs $2.50 one way, $5.00 round trip. For more information about our bus fares and passes, please visit the Fares section of this website.
 
-Where can I purchase the unlimited ride passes?
+*Where can I purchase the unlimited ride passes?*
 
 The 31 Day Unlimited Ride Pass is available at the downtown branch of First Tennessee Bank and at the CARTA administrative office, located at 1617 Wilcox Boulevard. The 24 Hour Unlimited Ride Pass can be purchased from the bus drivers.
 
-Where does the fare go?
+*Where does the fare go?*
 
 Enter the front door and place exact fare (drivers cannot make change) in the fare box at the top of the steps. Just slide your cash fare into the fare box or tap the fare box with your unlimited ride pass.
 
-Where should I sit?
+*Where should I sit?*
 
 Observe priority seating in the front of the bus for senior citizens and persons with disabilities. For safety's sake, babies and young children must be removed from strollers and held securely. It is the passenger's responsibility to ensure that strollers are folded and securely placed out of the aisle.
 
-How do I signal the driver I want to get off the bus?
+*How do I signal the driver I want to get off the bus?*
 
 When you get close to your destination, press the yellow tape or pull the yellow cord above your head or between the windows. This lets the driver know you want to get off at the next bus stop. Remember that bus drivers can only stop at designated bus stops and where it is safe. Also, after getting off the bus, please wait until traffic has cleared before crossing the street.
 
-What if I've lost something on the bus?
+*What if I've lost something on the bus?*
 
 Call the CARTA Information Line at (423) 629-1473 (TDD 423-624-4534) between 6:00 a.m. & 8:00 p.m., Monday - Saturday, and we will try to locate it for you.
 
-Are CARTA buses wheelchair accessible?
+*Are CARTA buses wheelchair accessible?*
 
 Yes, CARTA is 100% wheelchair accessible.
 
 Back to the top
 
 HOW TO RIDE
-===========
+-----------
 
-1. Plan your trip. Find out what bus you need to take by checking the Routes and Schedules page on this website. If you need assistance, call the CARTA Information Line at (423) 629-1473, TDD users (423) 624-4534, Monday through Saturday from 6:00 a.m. until 8:00 p.m. Tell the customer service representative where you are and where you want to go, and the representative will provide you with the information you need. CARTA bus schedules are also available at many of the local banks, shopping malls, social service agencies, hospitals, colleges and universities, the downtown post office, public libraries and at CARTA.
+*1. Plan your trip.* Find out what bus you need to take by checking the Routes and Schedules page on this website. If you need assistance, call the CARTA Information Line at (423) 629-1473, TDD users (423) 624-4534, Monday through Saturday from 6:00 a.m. until 8:00 p.m. Tell the customer service representative where you are and where you want to go, and the representative will provide you with the information you need. CARTA bus schedules are also available at many of the local banks, shopping malls, social service agencies, hospitals, colleges and universities, the downtown post office, public libraries and at CARTA.
 
-2. Wait for the bus at the bus stop. CARTA bus stops are identified by red, white and blue signs. As CARTA bus drivers try very hard to stay on schedule, get to your bus stop a few minutes early to make sure that you don't miss the bus. Before you board the bus, make sure that you are getting on the right bus by checking the destination and route number on the signs above the front windshield and on the curb side of the bus.
+(2. Wait for the bus at the bus stop.* CARTA bus stops are identified by red, white and blue signs. As CARTA bus drivers try very hard to stay on schedule, get to your bus stop a few minutes early to make sure that you don't miss the bus. Before you board the bus, make sure that you are getting on the right bus by checking the destination and route number on the signs above the front windshield and on the curb side of the bus.
 
-3. Have your bus fare or unlimited ride bus pass ready when you board the bus. If you need to recharge your unlimited ride pass, please tell your bus driver. Please have exact change as neither the CARTA bus drivers nor the fare boxes can make change.
+*3. Have your bus fare or unlimited ride bus pass ready when you board the bus.* If you need to recharge your unlimited ride pass, please tell your bus driver. Please have exact change as neither the CARTA bus drivers nor the fare boxes can make change.
 
-4. When you get close to your destination, pull the yellow cord or press the yellow tape above your head or between the windows. This lets the bus driver know that you want to get off at the next bus stop. CARTA bus drivers can only stop at the designated bus stops and where it is safe.
+*4. When you get close to your destination, pull the yellow cord or press the yellow tape above your head or between the windows.* This lets the bus driver know that you want to get off at the next bus stop. CARTA bus drivers can only stop at the designated bus stops and where it is safe.
 
 
 Back to the top
 
 PARK AND RIDE
-=============
+-------------
 
 Convenient Park and Ride lots are available at Northgate Mall, Stockdale's on North Point Boulevard, Rivermont Presbyterian Church, Eastgate Town Center, Highway 58 in front of United Grocery Outlet, Highway 58 in front of Captain D's Restaurant, Bi-Lo on East Brainerd Road at Jenkins Road, and Concord Baptist Church on East Brainerd Road. Park your car and ride with us!
 
@@ -278,7 +278,7 @@ Convenient Park and Ride lots are available at Northgate Mall, Stockdale's on No
 Back to the top
 
 TRAVEL TRAINING
-===============
+---------------
 
 CARTA and the Siskin Hospital for Physical Rehabilitation have joined together to offer transportation training for people with disabilities.
 
@@ -290,9 +290,9 @@ Through the Travel Training program, the Trainer will come to your home and help
 
 For more information please contact:
 
-Travel Trainer
+*Travel Trainer*
 
-Siskin Hospital for Physical Rehabilitation
+*Siskin Hospital for Physical Rehabilitation*
 
 One Siskin Plaza
 
@@ -307,7 +307,7 @@ TDD: (423) 624-4534
 Back to the top
 
 WI-FI
-=====
+-----
 
 Introducing CARTANET, CARTA's free WiFi service that is available on all CARTA buses! The CARTA is the first transit agency in Tennessee to provide free WiFi on its service vehicles. Stay connected to the web via your laptop, iPad or any of your personal electronic devices and leave the driving to us!
 

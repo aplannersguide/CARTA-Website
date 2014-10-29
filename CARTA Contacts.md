@@ -1,8 +1,7 @@
 CARTA Contacts
 ==============
 
-Chattanooga Area Regional Transit Authority
-
+*Chattanooga Area Regional Transit Authority*
 1617 Wilcox Boulevard, Chattanooga, TN 37406
 Information Line: 423-629-1473
 
